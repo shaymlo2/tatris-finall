@@ -635,7 +635,7 @@ void Board::specification()
 	cout << "Press 'E' to move to the bottom.";
 	gotoxy(30, 13);
 	cout << "Press 'S' to stop the Joker.";
-	
+	//hj
 }
 
 void Board::gameOver(bool &flage)
